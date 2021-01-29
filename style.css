@@ -1,0 +1,45 @@
+body{
+    font-family: 'Potta One', cursive;
+    text-align: center;
+    background-image:url("background2.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+h1{
+    font-size: 5rem;
+    margin: 5rem 0 5rem 0;
+    
+}
+
+.btn{
+    width: 100px;
+    height: 100px;
+    margin: 10%;
+    border-width: 5px;
+}
+.container{
+    text-align: center;
+    margin-top: 10%;
+}
+.instrument{
+    color: rgb(255, 0, 64);
+    font-size: 1rem;
+    text-shadow: 2px 2px black;
+}
+.a,.s,.d,.f,.g,.h,.j,.k,.l{
+    font-size:1.5rem;
+    text-shadow: 2px 2px grey;
+    font-weight: 100;
+}
+footer{
+    margin-top: 5%;
+}
+p{
+    color:pink;
+    text-transform: capitalize;
+    font-size: 1.5rem;;
+}
+.pressed{
+    background-color: #FFc107;
+}
